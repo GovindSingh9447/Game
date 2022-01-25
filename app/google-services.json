@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661974480353",
+    "project_id": "coin-game-ada79",
+    "storage_bucket": "coin-game-ada79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661974480353:android:c492054f5e1d5953bf0ea0",
+        "android_client_info": {
+          "package_name": "com.ranawat.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661974480353-3qigi7n6r9aur2goasuvp9oh96kttnld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCWTTYqzM4J_nyvsybb9KzHRmbha1GRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661974480353-3qigi7n6r9aur2goasuvp9oh96kttnld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
